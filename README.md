@@ -1,0 +1,2 @@
+# PyAlgoTrade
+Backtesting strategies
