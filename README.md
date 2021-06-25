@@ -13,6 +13,9 @@ backtest_movingavg.py
     - buy/sell SPY at eom based on sma  
 
 ### References
+PyAlgoTrade  
+https://gbeced.github.io/pyalgotrade/
+
 Steve Burns - New Trader U  
 https://www.newtraderu.com/2019/10/05/moving-average-trading-strategy-that-crushes-buy-and-hold/  
 
